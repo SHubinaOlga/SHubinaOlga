@@ -1,2 +1,1 @@
-![Hi]
-<img src="https://github.com/SHubinaOlga/SHubinaOlga/blob/main/6300033705_0a94d3cc92_o.jpg" style="display: block; margin: auto;" />
+<img src="https://github.com/SHubinaOlga/SHubinaOlga/blob/main/pictures-pibig-info-p-programmist-risunok-karandashom-pinterest-83.jpg" style="display: block; margin: auto;" />
