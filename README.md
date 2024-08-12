@@ -1,4 +1,4 @@
-<h1 align="center">Hi, i'm SHubina Olga!style="color:light green">
+<h1 align="center> "Hi, i'm SHubina Olga! <style="color:"light green"> 
 
 <img src="https://github.com/SHubinaOlga/SHubinaOlga/blob/main/pictures-pibig-info-p-programmist-risunok-karandashom-pinterest-83.jpg" style="display: block; margin: auto;" />
 
