@@ -2,5 +2,4 @@
 
 my tools:
 <img src="https://img.shields.io/badge/py-python-grin?logo=python" style="display: block; margin: auto;" />
-
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=&theme=violet-dark&hide_border=true&card_width=500&card_height=200&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=SHubinaOlga&theme=github-green-purple&locale=ru&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
